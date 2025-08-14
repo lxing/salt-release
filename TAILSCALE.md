@@ -40,7 +40,6 @@ Remote Access (via Tailscale):
   https://salt.tailxxxxxx.ts.net:8443
 
 Remote Access QR Code:
-Scan with mobile device (Remote Access):
 
 <QR Code>
 
@@ -48,7 +47,6 @@ Local Network:
   http://192.xxx.xx.xxx:8080
 
 Local Network QR Code:
-Scan with mobile device (Local Network):
 
 <QR Code>
 ```

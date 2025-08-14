@@ -1,0 +1,9 @@
+# Images Directory
+
+This directory contains screenshots and images for documentation.
+
+## Guidelines
+- Use descriptive filenames (e.g., `main-interface.png`, `combat-panel.png`)
+- Keep images under 25MB for GitHub compatibility
+- Prefer PNG for screenshots, JPG for photos, GIF/WebP for animations
+- Consider image compression to reduce repository size
